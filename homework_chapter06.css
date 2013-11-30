@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+font-family: Verdana, Geneva, sans-serif;
+}
+table {
+border: 4px double #666;
+}
+td {
+margin: 0px;
+padding: 2px;
+border: 1px solid #666;
+font-size: 10px;
+}
+a {
+border-top-style: none;
+border-right-style: none;
+border-bottom-style: none;
+border-left-style: none;
+}
