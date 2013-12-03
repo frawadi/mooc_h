@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 1em;
+	background-color: #fff;
+}
+.wikibild {
+	float:right;
+}
+fieldset {
+	border-radius:12px;
+	border:2px solid #333;
+	background-color: #CCC;
+	width:500px;
+}
+legend {
+	border-radius:12px;
+	border:2px solid #333;
+	background-color: #000;
+	color:#FFF;
+	/*width:10em;*/
+}
+.suchfeld {
+	border: 3px solid #990000;
+	width:10em;
+	height:1.5em;
+	font-size: 1.5em;
+	margin-bottom:0.5em;
+}
+#artikelsuche {
+	width:10em;
+	height:2em;
+	font-size: 1.5em;
+	font-weight:bold;
+	border:6px double #333;
+	border-radius: 1em;
+	background-color: #fff;
+}
+#volltextsuche {
+	width:10em;
+	height:2em;
+	font-size: 1.5em;
+	border:2px solid #333;
+	border-radius: 1em;
+	color: #666;	
+}
